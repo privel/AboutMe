@@ -30,7 +30,7 @@ Which I managed to do, then I took part in the development👨‍💻 of various
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+
 
 
 
@@ -50,9 +50,7 @@ Which I managed to do, then I took part in the development👨‍💻 of various
 </div>
 
 
-
-
-</td></tr></table>  
+ 
 
 <br/>  
 
