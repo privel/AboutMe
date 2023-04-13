@@ -60,17 +60,13 @@ Which I managed to do, then I took part in the development👨‍💻 of various
 
 ## Connect with me  
 <a href="https://t.me/vspxd" target="_blank">
-<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkukQi5sQQFqioXiiHqIC-ppIE7_1HzSVQ1vylbAQXaw&s?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+Telegram🧠
 </a>  
   
 
 <br/>  
 
 
-## Github Stats  
-  
-
-<br/>  
 
 
 
@@ -79,10 +75,6 @@ Which I managed to do, then I took part in the development👨‍💻 of various
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=privel&&style=flat-square" align="center" />
-</div>  
-  
 
 <br/>  
 
@@ -90,4 +82,3 @@ Which I managed to do, then I took part in the development👨‍💻 of various
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
