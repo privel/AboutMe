@@ -17,7 +17,7 @@
 
 
 
-### About me  
+### About me in two words 
 My path  to IT began in 2018, my first programming language that I learned then was Java.☕
 
 then later for 2 years⌛ I switched to Python🐍, because a friend offered me to participate in a project to bypass the protection of one site.
@@ -77,5 +77,3 @@ Telegram🧠
 
 
 <br />
-
-----
