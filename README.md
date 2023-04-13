@@ -59,8 +59,8 @@ Which I managed to do, then I took part in the development👨‍💻 of various
 
 
 ## Connect with me  
-<a href="https://github.com/https://t.me/vspxd" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://t.me/vspxd" target="_blank">
+<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkukQi5sQQFqioXiiHqIC-ppIE7_1HzSVQ1vylbAQXaw&s?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
   
 
@@ -73,10 +73,7 @@ Which I managed to do, then I took part in the development👨‍💻 of various
 <br/>  
 
 
-## Recent Blog Posts  
-  
 
-<br/>  
 
   
 
